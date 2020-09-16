@@ -1,6 +1,6 @@
 # Endpoints.Framework
 
-Next5Soft的doutnet core后端开发框架，其中封装了团队开发项目常用的功能，并移植了部分es6的编码方式到dotnet下，使用Endpoints.Framework将大幅度提升你的后端开发效率。
+Next5Soft的dotnet core后端开发框架，其中封装了团队开发项目常用的功能，并移植了部分es6的编码方式到dotnet下，使用Endpoints.Framework将大幅度提升你的后端开发效率。
 
 ## 功能
 
