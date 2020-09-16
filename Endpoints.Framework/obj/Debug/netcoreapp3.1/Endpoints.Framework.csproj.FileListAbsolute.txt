@@ -1,0 +1,9 @@
+/Users/bitbits.inc/Projects/dotnet/Endpoints.Inc/Endpoints.Framework/bin/Debug/netcoreapp3.1/Endpoints.Framework.deps.json
+/Users/bitbits.inc/Projects/dotnet/Endpoints.Inc/Endpoints.Framework/bin/Debug/netcoreapp3.1/Endpoints.Framework.dll
+/Users/bitbits.inc/Projects/dotnet/Endpoints.Inc/Endpoints.Framework/bin/Debug/netcoreapp3.1/Endpoints.Framework.pdb
+/Users/bitbits.inc/Projects/dotnet/Endpoints.Inc/Endpoints.Framework/obj/Debug/netcoreapp3.1/Endpoints.Framework.csprojAssemblyReference.cache
+/Users/bitbits.inc/Projects/dotnet/Endpoints.Inc/Endpoints.Framework/obj/Debug/netcoreapp3.1/Endpoints.Framework.AssemblyInfoInputs.cache
+/Users/bitbits.inc/Projects/dotnet/Endpoints.Inc/Endpoints.Framework/obj/Debug/netcoreapp3.1/Endpoints.Framework.AssemblyInfo.cs
+/Users/bitbits.inc/Projects/dotnet/Endpoints.Inc/Endpoints.Framework/obj/Debug/netcoreapp3.1/Endpoints.Framework.csproj.CoreCompileInputs.cache
+/Users/bitbits.inc/Projects/dotnet/Endpoints.Inc/Endpoints.Framework/obj/Debug/netcoreapp3.1/Endpoints.Framework.dll
+/Users/bitbits.inc/Projects/dotnet/Endpoints.Inc/Endpoints.Framework/obj/Debug/netcoreapp3.1/Endpoints.Framework.pdb

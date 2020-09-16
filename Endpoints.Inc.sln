@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Endpoints.Framework.Test", "Endpoints.Framework.Test\Endpoints.Framework.Test.csproj", "{49BBBE0D-5E5C-41D5-9CB7-D2DF7F4D489D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Endpoints.Framework", "Endpoints.Framework\Endpoints.Framework.csproj", "{C7013860-8D27-458D-9F34-C332ECA71C2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49BBBE0D-5E5C-41D5-9CB7-D2DF7F4D489D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49BBBE0D-5E5C-41D5-9CB7-D2DF7F4D489D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49BBBE0D-5E5C-41D5-9CB7-D2DF7F4D489D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49BBBE0D-5E5C-41D5-9CB7-D2DF7F4D489D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7013860-8D27-458D-9F34-C332ECA71C2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7013860-8D27-458D-9F34-C332ECA71C2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7013860-8D27-458D-9F34-C332ECA71C2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7013860-8D27-458D-9F34-C332ECA71C2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,130 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/bitbits.inc/Projects/Endpoints/Endpoints.Inc/Endpoints.Framework.Test/Endpoints.Framework.Test.csproj": {}
+  },
+  "projects": {
+    "/Users/bitbits.inc/Projects/Endpoints/Endpoints.Inc/Endpoints.Framework.Test/Endpoints.Framework.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/bitbits.inc/Projects/Endpoints/Endpoints.Inc/Endpoints.Framework.Test/Endpoints.Framework.Test.csproj",
+        "projectName": "Endpoints.Framework.Test",
+        "projectPath": "/Users/bitbits.inc/Projects/Endpoints/Endpoints.Inc/Endpoints.Framework.Test/Endpoints.Framework.Test.csproj",
+        "packagesPath": "/Users/bitbits.inc/.nuget/packages/",
+        "outputPath": "/Users/bitbits.inc/Projects/Endpoints/Endpoints.Inc/Endpoints.Framework.Test/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/bitbits.inc/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/bitbits.inc/Projects/Endpoints/Endpoints.Inc/Endpoints.Framework/Endpoints.Framework.csproj": {
+                "projectPath": "/Users/bitbits.inc/Projects/Endpoints/Endpoints.Inc/Endpoints.Framework/Endpoints.Framework.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/bitbits.inc/Projects/Endpoints/Endpoints.Inc/Endpoints.Framework/Endpoints.Framework.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/bitbits.inc/Projects/Endpoints/Endpoints.Inc/Endpoints.Framework/Endpoints.Framework.csproj",
+        "projectName": "Endpoints.Framework",
+        "projectPath": "/Users/bitbits.inc/Projects/Endpoints/Endpoints.Inc/Endpoints.Framework/Endpoints.Framework.csproj",
+        "packagesPath": "/Users/bitbits.inc/.nuget/packages/",
+        "outputPath": "/Users/bitbits.inc/Projects/Endpoints/Endpoints.Inc/Endpoints.Framework/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/bitbits.inc/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
