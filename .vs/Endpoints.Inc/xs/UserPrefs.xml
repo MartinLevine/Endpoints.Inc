@@ -1,21 +1,24 @@
 ﻿<Properties StartupConfiguration="{49BBBE0D-5E5C-41D5-9CB7-D2DF7F4D489D}|Default">
   <MonoDevelop.Ide.ItemProperties.Endpoints.Framework.Test PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Endpoints.Framework/Filters/ApiResponseFilter.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Endpoints.Framework/Extensions/StringExtensions.cs">
     <Files>
-      <File FileName="Endpoints.Framework/Authentication/JwtGenerator.cs" Line="49" Column="53" />
-      <File FileName="Endpoints.Framework/Filters/ApiResponseFilter.cs" Line="29" Column="52" />
+      <File FileName="Endpoints.Framework/Extensions/StringExtensions.cs" Line="7" Column="41" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Endpoints.Inc" expanded="True">
             <Node name="Endpoints.Framework" expanded="True">
-              <Node name="Authentication" expanded="True" />
-              <Node name="Filters" expanded="True">
-                <Node name="ApiResponseFilter.cs" selected="True" />
+              <Node name="Authentication" expanded="True">
+                <Node name="Hooks" expanded="True" />
               </Node>
+              <Node name="DataAnnotations" expanded="True" />
+              <Node name="Extensions" expanded="True">
+                <Node name="StringExtensions.cs" selected="True" />
+              </Node>
+              <Node name="Filters" expanded="True" />
+              <Node name="Middlewares" expanded="True" />
             </Node>
-            <Node name="Endpoints.Framework.Test" expanded="True" />
           </Node>
         </State>
       </Pad>
